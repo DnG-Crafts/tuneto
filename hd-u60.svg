@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.000mm" height="84.000mm" viewBox="629.000000 -289.000000 64.000000 84.000000">
+    <path transform="matrix(1,0,0,-1,661,-247)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M32,-32C32,-37.52285,27.522858,-42,22,-42L-22,-42C-27.522858,-42,-32,-37.522846,-32,-32L-32,32C-32,37.522842,-27.522858,42,-22,42L22,42C27.522858,42,32,37.522842,32,32L32,-32z"/>
+    <circle transform="matrix(1,0,0,-1,637.404785,-281.460602)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,684.401123,-281.640076)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,684.595215,-212.511276)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,637.650269,-212.359924)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="2" cx="0" cy="0"/>
+</svg>

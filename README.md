@@ -4,7 +4,15 @@ Cut files used in the <b>Making a HUB75 Tune To Sign</b> video
 
 [![https://www.youtube.com/watch?v=XoEewoHkPs8](https://img.youtube.com/vi/XoEewoHkPs8/0.jpg)](https://www.youtube.com/watch?v=XoEewoHkPs8)
 
-https://www.youtube.com/watch?v=XoEewoHkPs8
+https://www.youtube.com/watch?v=XoEewoHkPs8<br>
+
+
+The box is 690mm x 370mm using 4 hub75 panels that each measure 320mm x 160mm.<br>
+The offset angles used to make the frame are 40mm x 25mm with the 25mm edge shown at the front and the main panel cut file includes this 25mm offset around the whole edge so the panels sit perfectly within the visible part of the frame.<br>
+When cutting the rails for the frame just cut the top and bottom rails at 690mm and the side rails at 370mm.<br>
+The T section used on the inside to hold the panel in place is 25x25 and they were cut at 605mm for the top rail and 285mm for the sides and i didnt bother with one for the bottom. <br>
+These T section pieces were spaced 8mm from the inside of the front of the frame to allow for the 3mm thick clear cover/screen and light panel assembly to sit in.<br>
+
 
 
 
